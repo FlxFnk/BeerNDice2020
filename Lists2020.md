@@ -61,3 +61,36 @@
 #### Legendary Beasts: 455 / 1575
 
 - **Feldrak Elder**, Paired Weapons, 455
+
+## Schlegel
+
+### The Verminm Swarm: 4500
+
+#### Characters: 1795 / 1800
+
+- **Magister**, General, Doom Bell, Light Armour, Wizard Master, Second Awakening, Alchemist's Alloy, Crown of Autocracy, Thaumaturgy, 850
+- **Plague Patriarch**, Plague Pendulum, Light Armour, Plague Flail, Wizard Adept, Putrid Protection, Occultism, 785
+- **Chief**, Shield, Heavy Armour, Battle Standard Bearer, 160
+
+#### Core: 1135 / 1125
+
+- 30x **Plague Brotherhood**, Champion, Musician, Standard Bearer, Banner of the Endless Swarm, 415
+- 45x **Slaves**, Musician, 210
+- 30x **Vermin Guard**, Champion, Musician, Standard Bearer, Lightning Rod, 510
+
+#### Special: 421
+
+- 11x **Plague Disciples**, 241
+- 2x **Rat Swarms**, 90
+- 2x **Rat Swarms**, 90
+
+#### Tunnel Gunners: 819 / 1350
+
+- **Dreadmill**, 340
+- 10x **Grenadiers**, 199
+- **Weapon Team**, Naphtha Launcher, 140
+- **Weapon Team**, Rotary Gun, 140
+
+#### Built and Bred: 1130 / 1350
+
+- **Abomination**, 330
