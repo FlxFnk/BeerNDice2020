@@ -94,3 +94,27 @@
 #### Built and Bred: 1130 / 1350
 
 - **Abomination**, 330
+
+## Ralle
+
+### Kingdom of Equitane: 4499
+
+#### Characters:  1265 / 1800
+
+- **Damsel**, Equitan Unicorn, Wizard Master, Druidism, 445
+- **Duke**, General, Renown, Barded Warhorse, Shield, Grail Oath, Tristan's Resolve, Crusader's Salvation, 490
+- **Paladin**, Piety, Shield, Questing Oath, Bastard Sword, Crown of the Wizard King, Battle Standard Bearer, 330
+
+#### Core: 1183 / 1125
+
+- 12x **Knights Aspirant**, Champion, Standard Bearer, Stalker's Standard, 536
+- 12x **Knights of the Realm**, Champion, Musician, Standard Bearer, Rending Banner, 647
+
+#### Special: 2051
+
+- 29x **Knights Forlorn**, Champion, Musician, Standard Bearer, Banner of the Relentless Company, 731
+- 9x **Knights of the Grail**, Champion, Musician, Standard Bearer, Stalker's Standard, 815
+- **Sacred Reliquary**, 150
+- **Scorpion**, 115
+- **Scorpion**, 115
+- 5x **Yeoman Outriders**, Bow, 125
