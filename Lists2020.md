@@ -293,3 +293,40 @@
 - **Organ Gun**, Rune crafted, 335
 - **Dwarf Ballista**, Rune crafted, 140
 
+## Matze
+
+### Empire of Sonnstahl
+
+#### Characters: 1775 / 1800
+
+- **Marshal**, General, Great Griffon , Shield , Pistol , Winter Cloak, Hero's Heart, Ghostly Guard, 480
+- **Marshal**, Great Griffon , Shield , Lance , Basalt Infusion, Talisman of Shielding, 400
+- **Marshal**, Pegasus , Shield , Lance , Dragonfire Gem, Battle Standard Bearer, 250
+- **Wizard**, Horse , Wizard Master, Pyromancy, 360
+- **Wizard**, Horse , Book of Arcane Mastery, Wizard Adept, Divination, 285
+
+#### Core: 1125 / 1125
+
+- 5x **Electoral Cavalry**, Great Weapon , Musician, 185
+- 5x **Electoral Cavalry**, Great Weapon , Musician, 185
+- 5x **Electoral Cavalry**, Great Weapon , Musician, 185
+- 5x **Electoral Cavalry**, Great Weapon, 165
+- 10x **State Militia**, 135
+- 10x **State Militia**, 135
+- 10x **State Militia**, 135
+
+#### Imperial Armoury: 720 / 900
+
+- **Cannon**, 245
+
+#### Imperial Auxiliaries: 1284 / 1575
+
+- 7x **Imperial Rangers**, 112
+- 7x **Imperial Rangers**, 112
+- 9x **Reiters**, Repeater Gun, 305
+- 5x **Reiters**, Brace of Pistols, 175
+- 5x **Reiters**, Brace of Pistols, 175
+
+#### Sunna's Fury: 755 / 1350
+
+- **Steam Tank**, 475
