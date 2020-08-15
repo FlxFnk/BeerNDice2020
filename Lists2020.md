@@ -147,3 +147,29 @@
 #### Instruments of Destruction: 435 / 1350
 
 - **Infernal Engine**, Titan Mortar, Kadim Manifestation, 435
+
+## Ronko
+
+### Daemon Legions: 4493
+
+#### Characters: 1665 / 1800
+
+- **Sentinel of Nukuja**, Mark of the Eternal Champion, Dark Pulpit, Thaumaturgy, 705
+- **Vanadra's Scourge**, General, Brimstone Secretions, Living Shield, Whipcrack Tail, Greater Dominion, Wizard Adept, Evocation, 960
+
+#### Core: 1137 / 1125
+
+- 18x **Lemures**, 18x Stiff Upper Lip, Standard Bearer, Champion, 468
+- 24x **Myrmidons**, 24x Whipcrack Tail, Standard Bearer, Musician, Champion, 669
+
+#### Special: 1356
+
+- 5x **Hellhounds**, Champion, 190
+- 6x **Hoarders**, 6x Smothering Coils, 6x Mirrored Scales, 760
+- 3x **Brazen Beasts**, 3x Whipcrack Tail, Champion, 406
+
+#### Aves: 1295 / 1575
+
+- 3x **Bloat Flies**, 3x Dextrous Tentacles, Champion, 335
+
+
