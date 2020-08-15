@@ -159,18 +159,18 @@
 
 #### Core: 1137 / 1125
 
-- 18x **Lemures**, 18x Stiff Upper Lip, Standard Bearer, Champion, 468
-- 24x **Myrmidons**, 24x Whipcrack Tail, Standard Bearer, Musician, Champion, 669
+- 18x **Lemures**, Stiff Upper Lip, Standard Bearer, Champion, 468
+- 24x **Myrmidons**, Whipcrack Tail, Standard Bearer, Musician, Champion, 669
 
 #### Special: 1356
 
 - 5x **Hellhounds**, Champion, 190
-- 6x **Hoarders**, 6x Smothering Coils, 6x Mirrored Scales, 760
-- 3x **Brazen Beasts**, 3x Whipcrack Tail, Champion, 406
+- 6x **Hoarders**, Smothering Coils, Mirrored Scales, 760
+- 3x **Brazen Beasts**, Whipcrack Tail, Champion, 406
 
 #### Aves: 1295 / 1575
 
-- 3x **Bloat Flies**, 3x Dextrous Tentacles, Champion, 335
+- 3x **Bloat Flies**, Dextrous Tentacles, Champion, 335
 
 ## Niklas
 
@@ -203,3 +203,28 @@
 
 - **Taurosaur**, Engine of the Ancients, 555
 
+## Kemper
+
+### Daemon Legions: 4491
+
+#### Characters: 1490 / 1800
+
+- **Omen of Savar**, General, Unnatural Roots, Dextrous Tentacles, Bronze Backbone, Greater Dominion, Wizard Master, Divination, 825
+- **Courtesan of Cibaresh**, Mesmerising Plumage, Wizard Adept, Witchcraft, 665
+
+#### Core: 1263 / 1125
+
+- 24x **Myrmidons**, Piercing Spike, Musician, Champion, 673
+- 10x **Succubi**, Mesmerising Plumage, Musician, Champion, 265
+- 10x **Imps**, Hand of Heaven, Charged Tendrils, Champion, Musician, Standard Bearer, 325
+
+#### Special: 1418
+
+- 5x **Sirens**, Roaming Hands, 225
+- 6x **Brazen Beasts**, Centipede Legs, Musician, Champion, 723
+- **Cultist Giant**, Segmented Shell, 315
+- **Threshing Engine**, 155
+
+#### Aves: 320 / 1575
+
+- 3x **Bloat Flies**, Champion, 320
