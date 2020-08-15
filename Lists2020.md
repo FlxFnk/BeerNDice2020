@@ -126,7 +126,7 @@
 #### Characters: 1230 / 1800
 
 - **Prophet of Lugar**, General, Kadim Chariot, Great Weapon, Obsidian Rock, Flame of the East, Wizard Adept, Alchemy, 415
-- **Prophet of Nezibkesh**, Shield , Blunderbuss, Book of Arcane Mastery, Wizard Adept, Pyromancy, 370
+- **Prophet of Nezibkesh**, Shield, Blunderbuss, Book of Arcane Mastery, Wizard Adept, Pyromancy, 370
 - **Taurukh Commissioner**, Shield, Infernal Weapon, Willow's Ward, Talisman of Shielding, Battle Standard Bearer, 2x Aether Icon, 445
 
 #### Core: 1127 / 1125
@@ -172,4 +172,34 @@
 
 - 3x **Bloat Flies**, 3x Dextrous Tentacles, Champion, 335
 
+## Nicklas
+
+### Saurian Ancients: 4498
+
+#### Characters: 1485 / 1800
+
+- **Caiman Ancient**, Halberd, Supernatural Dexterity, Alchemist's Alloy, Crown of the Wizard King, 285
+- **Saurian Veteran**, General, Carnosaur, Shield, Lance, Spirit of the Stampede, 500
+- **Skink Priest**, Taurosaur, Giant Blowpipes (3+), Wizard Adept, Starfall Shard, Sun Tablet, Druidism, 700
+
+#### Core: 900 / 900
+
+- 27x **Saurian Warriors**, Serpent, Spear, Standard Bearer, Rending Banner, 715
+- 15x **Skink Braves**, Poisoned Javelin (4+), Musician, 185
+
+#### Special: 725
+
+- 5x **Raptor Riders**, Musician, Standard Bearer, Totem of Mixoatl, 370
+- 5x **Caimans**, Halberd, 355
+
+#### Jungle Guerillas: 1018 / 1350
+
+- 8x **Chameleons**, 189
+- 8x **Chameleons**, 189
+- 3x **Pteradon Sentries**, Shield, Poisoned Javelin, 195
+- 2x **Weapon Beasts**, Spearback, 260
+
+#### Thunder Lizards: 1210 / 1575
+
+- **Taurosaur**, Engine of the Ancients, 555
 
