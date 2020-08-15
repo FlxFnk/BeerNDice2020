@@ -259,3 +259,37 @@
 
 - **Dwarf Ballista**, Rune crafted, 140
 - **Dwarf Ballista**, Rune crafted, 140
+
+## Fritsche
+
+### Dwarven Hold: 4500
+
+#### Characters: 155 / 1800
+
+- **Engineer**, General, Shield, Wyrm-Slayer Rocket, 155
+
+#### Core: 1125 / 1125
+
+- 12x **Clan Marksmen**, Shield, Guild-Crafted Handgun, Musician, 306
+- 12x **Clan Marksmen**, Shield, Guild-Crafted Handgun, Musician, 306
+- 11x **Clan Marksmen**, Shield, Guild-Crafted Handgun, Musician, 283
+- 10x **Clan Marksmen**, Shield, Crossbow, Musician, 230
+
+#### Special: 2085
+
+- 6x **Hold Guardians**, Champion, Musician, Standard Bearer, Runic Standard of the Hold, 675
+- 25x **Seekers**, Vanguard, Champion, Musician, 640
+- 25x **Seekers**, Vanguard, Champion, Musician, 640
+- Vengeance Seeker, 130
+
+#### Clans' Thunder: 1520 / 1575
+
+- **Attack Copter**, 180
+- **Steam Copters Bomber**, 215
+
+#### Engines of War: 895 / 900
+
+- **Cannon**, Rune crafted, 265
+- **Organ Gun**, Rune crafted, 335
+- **Dwarf Ballista**, Rune crafted, 140
+
