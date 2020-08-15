@@ -118,3 +118,32 @@
 - **Scorpion**, 115
 - **Scorpion**, 115
 - 5x **Yeoman Outriders**, Bow, 125
+
+## Sepp
+
+### Infernal Dwarves: 4499
+
+#### Characters: 1230 / 1800
+
+- **Prophet of Lugar**, General, Kadim Chariot, Great Weapon, Obsidian Rock, Flame of the East, Wizard Adept, Alchemy, 415
+- **Prophet of Nezibkesh**, Shield , Blunderbuss, Book of Arcane Mastery, Wizard Adept, Pyromancy, 370
+- **Taurukh Commissioner**, Shield, Infernal Weapon, Willow's Ward, Talisman of Shielding, Battle Standard Bearer, 2x Aether Icon, 445
+
+#### Core: 1127 / 1125
+
+- 28x **Infernal Warriors**, Great Weapon and Fight in Extra Rank, Champion, Musician, Standard Bearer, Aether Icon, 511
+- 18x **Citadel Guard**, Flintlock Axe, Musician, 491
+- 20x **Shackled Slaves**, Paired Weapons, 125
+
+#### Special: 1707
+
+- 5x **Taurukh Anointed**, Shield, Infernal Weapon, Champion, Musician, 597
+- 5x **Taurukh Enforcers**, Shield, Infernal Weapon, 240
+- 3x **Kadim Incarnates**, 280
+- 5x **Vassal Cavalry**, 180
+- **Vassal Slingshot**, 120
+- **Infernal Artillery**, Rocket Battery, Cluster Munitions, 290
+
+#### Instruments of Destruction: 435 / 1350
+
+- **Infernal Engine**, Titan Mortar, Kadim Manifestation, 435
