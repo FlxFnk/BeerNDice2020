@@ -228,3 +228,34 @@
 #### Aves: 320 / 1575
 
 - 3x **Bloat Flies**, Champion, 320
+
+## Kai
+
+### Dwarven Holds: 4500
+
+#### Characters: 1475 / 1800
+
+- **King**, General, War Throne, Holdstone, Rune of Destruction, Rune of Craftsmanship, Rune of Fury, Rune of Resistance, Rune of Iron, 715
+- **Runic Smith**, 3x Battle Rune, Shield, Rune of Iron, Rune of Devouring, Rune of Dragon's Breath, 375
+- **Thane**, Shield Bearers, Shield, Battle Standard Bearer, Holdstone, 3x Rune of Fury, 385
+
+#### Core: 1223 / 1125
+
+- 11x **Clan Marksmen**, Shield, Crossbow, 230
+- 25x **Clan Warriors**, Great Weapon, Champion, Musician, Standard Bearer, 420
+- 24x **Greybeards**, Great Weapon, Champion, Musician, Standard Bearer, 573
+
+#### Special: 1307
+
+- 22x **Deep Watch**, Champion, Musician, Standard Bearer, 520
+- **Giant Dwarf**, Giant Seeker, 305
+- 22x **Seekers**, Musician, 482
+
+#### Clans' Thunder: 445 / 1575
+
+- **Steam Copters Bomber**, 215
+
+#### Engines of War: 280 / 900
+
+- **Dwarf Ballista**, Rune crafted, 140
+- **Dwarf Ballista**, Rune crafted, 140
