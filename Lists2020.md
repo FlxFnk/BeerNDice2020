@@ -172,7 +172,7 @@
 
 - 3x **Bloat Flies**, 3x Dextrous Tentacles, Champion, 335
 
-## Nicklas
+## Niklas
 
 ### Saurian Ancients: 4498
 
