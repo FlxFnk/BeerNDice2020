@@ -102,7 +102,7 @@
 ### Saurian Ancients: 4498
 - **Caiman Ancient**, Halberd, Supernatural Dexterity, Alchemist's Alloy, Crown of the Wizard King, 285
 - **Saurian Veteran**, General, Carnosaur, Shield, Lance, Spirit of the Stampede, 500
-- **Skink Priest**, Taurosaur, Giant Blowpipes (3+), Wizard Adept, Starfall Shard, Sun Tablet, Druidism, 700
+- **Skink Priest**, Taurosaur, Engine of the Ancients, Wizard Adept, Starfall Shard, Sun Tablet, Druidism, 800
 - 27x **Saurian Warriors**, Serpent, Spear, Standard Bearer, Rending Banner, 715
 - 15x **Skink Braves**, Poisoned Javelin (4+), Musician, 185
 - 5x **Raptor Riders**, Musician, Standard Bearer, Totem of Mixoatl, 370
@@ -111,7 +111,7 @@
 - 8x **Chameleons**, 189
 - 3x **Pteradon Sentries**, Shield, Poisoned Javelin, 195
 - 2x **Weapon Beasts**, Spearback, 260
-- **Taurosaur**, Engine of the Ancients, 555
+- **Taurosaur**, Giant Blowpipes, 455
 
 ## Kemper
 
